@@ -1,1 +1,1 @@
-# Bpertussis-fitness-dynamics
+# *Bordetella pertussis* fitness dynamics
